@@ -1,5 +1,5 @@
 # EDAFilm
-Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on Netflix data in Python
+Exploratory data analysis ([EDA](https://en.wikipedia.org/wiki/Exploratory_data_analysis)) on film data in Python
 
 **Language: Python**
 
